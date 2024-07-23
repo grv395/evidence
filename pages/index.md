@@ -1,5 +1,5 @@
 ---
-title: Welcome to Evidence copy
+title: Welcome to Evidence copy2
 ---
 
 <Details title='How to edit this page'>
@@ -62,3 +62,6 @@ title: Welcome to Evidence copy
 - Message us on [Slack](https://slack.evidence.dev/)
 - Read the [Docs](https://docs.evidence.dev/)
 - Open an issue on [Github](https://github.com/evidence-dev/evidence)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3NjA5MzQ5MDddfQ==
+-->
