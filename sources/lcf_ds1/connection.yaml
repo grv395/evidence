@@ -1,0 +1,9 @@
+# This file was automatically generated
+name: lcf
+type: mysql
+options:
+  host: n1-mumbai.frappe.cloud
+  port: 3306
+  database: _2be6fda51438a375
+  user: _2be6fda51438a375_read_only
+  ssl: "true"
